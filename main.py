@@ -1,8 +1,6 @@
 import secrets
 import string
 
-char_amount = {}
-
 print("How many characters should the password be? (leave blank & press enter for 8 charaters):")
 char_amount = input()
 
